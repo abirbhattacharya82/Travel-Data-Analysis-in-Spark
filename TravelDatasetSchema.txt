@@ -1,0 +1,15 @@
+Column 1: City pair (Combination of from and to): String
+Column 2: From location: String
+Column 3: To Location: String
+Column 4: Product type: Integer (1=Air, 2=Car, 3 =Air+Car, 4 =Hotel, 5=Air+Hotel, 6=Hotel +Car, 7 =Air+Hotel+Car)
+Column 5: Adults traveling: Integer
+Column 6: Seniors traveling: Integer
+Column 7: Children traveling: Integer
+Column 8: Youth traveling: Integer
+Column 9: Infant traveling: Integer
+Column 10: Date of travel: String
+Column 11: Date of Return: String
+Column 12: Airline Price: float
+Column 13: Car Price: float
+Column 14: Hotel Price: Float
+Column 15: Hotel name: String
